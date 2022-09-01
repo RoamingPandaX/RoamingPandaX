@@ -4,7 +4,7 @@
 
 -   🌱 I'm currently learning CFA and R
 -   👯 I'm a Finance student in Foreign Trade University Vietnam
--   🥅 2022 goals: Pass CFa level 1 exam and apply for an internship!!
+-   🥅 2022 goals: Pass CFA level 1 exam and apply for an internship!!
 -   ⚡ My goals: I aspire to be a CFA Charterholder
 
 <!--START_SECTION:activity-->
